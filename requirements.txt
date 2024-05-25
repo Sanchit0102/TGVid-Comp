@@ -1,3 +1,4 @@
+pyrofork
 pyrogram
 TgCrypto
 python-dotenv
